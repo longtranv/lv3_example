@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "debug": "nodemon server.js ",
-    "start": "node server.js ",
+    "start": "node server.js",
     "genAPIDoc": "apidoc -i ./app/route/ -o ./public/docs/"
   },
   "author": "S3LAB.",
